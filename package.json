@@ -1,0 +1,75 @@
+{
+  "_from": "git+https://github.com/at88mph/SlickGrid.git",
+  "_id": "slickgrid@3.0.2",
+  "_inBundle": false,
+  "_integrity": "sha1-eXmWP9WKfpZc3u7PNMGc+YGXNaI=",
+  "_location": "/slickgrid",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "slickgrid@git+https://github.com/at88mph/SlickGrid.git",
+    "name": "slickgrid",
+    "escapedName": "slickgrid",
+    "rawSpec": "git+https://github.com/at88mph/SlickGrid.git",
+    "saveSpec": "git+https://github.com/at88mph/SlickGrid.git",
+    "fetchSpec": "https://github.com/at88mph/SlickGrid.git",
+    "gitCommittish": "master"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "git+https://github.com/at88mph/SlickGrid.git#da49f99ded8c77ed69be620dc602e85f191a7dfa",
+  "_spec": "slickgrid@git+https://github.com/at88mph/SlickGrid.git",
+  "_where": "C:\\GIT\\earth-analytics",
+  "author": {
+    "name": "Michael Leibman",
+    "email": "michael.leibman@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/6pac/SlickGrid/issues"
+  },
+  "bundleDependencies": false,
+  "contributors": [
+    {
+      "name": "Ben McIntyre",
+      "email": "email.ben.mcintyre@gmail.com"
+    },
+    {
+      "name": "Dustin Jenkins",
+      "email": "email.djenkins.cadc@gmail.com"
+    }
+  ],
+  "dependencies": {
+    "jquery": "^1.8.0",
+    "jquery-ui": "^1.12.1",
+    "npm": "^5.3.0"
+  },
+  "deprecated": false,
+  "description": "A lightning fast JavaScript grid/spreadsheet",
+  "devDependencies": {
+    "jsdom": "^9.12.0",
+    "jsdom-global": "^2.1.1",
+    "uglify-js": "^2.8.29",
+    "webpack": "^2.7.0"
+  },
+  "directories": {
+    "example": "examples",
+    "test": "tests"
+  },
+  "homepage": "https://github.com/6pac/SlickGrid#readme",
+  "keywords": [
+    "slickgrid",
+    "grid"
+  ],
+  "license": "MIT",
+  "main": "main.js",
+  "name": "slickgrid",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/6pac/SlickGrid.git"
+  },
+  "scripts": {
+    "package": "webpack"
+  },
+  "version": "3.0.2"
+}

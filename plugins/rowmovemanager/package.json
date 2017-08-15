@@ -1,0 +1,31 @@
+{
+  "name": "slickgrid-plugin-rowmovemanager",
+  "version": "1.0.0",
+  "description": "SlickGrid plugin to manage moving rows via drag 'n drop.",
+  "main": "index.js",
+  "scripts": {
+    "test": "No tests available."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/6pac/SlickGrid.git"
+  },
+  "keywords": [
+    "slickgrid",
+    "grid"
+  ],
+  "author": "Michael Leibman <michael.leibman@gmail.com>",
+  "contributors": [ "Ben McIntyre <email.ben.mcintyre@gmail.com>", "Dustin Jenkins <cyclodaddy@gmail.com>" ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/6pac/SlickGrid/issues"
+  },
+  "homepage": "https://github.com/6pac/SlickGrid#readme",
+  "dependencies": {
+    "jquery": "^1.8.0"
+  },
+  "devDependencies": {
+    "jsdom": "^9.12.0",
+    "jsdom-global": "^2.1.1"
+  }
+}
